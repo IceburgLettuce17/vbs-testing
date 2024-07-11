@@ -1,0 +1,7 @@
+x=msgbox("Every good rhyme starts with once upon a time", 0+64, "System Error")
+x=msgbox("Long ago", 0+64, "System Error")
+x=msgbox("Far away", 0+64, "System Error")
+x=msgbox("Centuries before our day", 0+64, "System Error")
+x=msgbox("Humans lived", 0+64, "System Error")
+x=msgbox("Monsters roamed", 0+64, "System Error")
+x=msgbox("Both shared earth and sky as home", 0+64, "System Error")
